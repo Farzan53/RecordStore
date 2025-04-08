@@ -1,0 +1,129 @@
+body{
+    background-image: url(preview.jpg);
+    /* background-size: cover; */
+   }
+     .b{
+        
+        background: linear-gradient(135deg, #D8B4F8, #6A0DAD);
+          color: black;
+          height: auto;
+          /* padding: 15px; */
+      }
+      .v{
+          font-size: 16px;
+      }
+      .v:hover{
+          font-weight: bolder;
+          font-size: 16px;
+      }
+      .h{
+       font-size: 16px;
+       margin-top: 7px;
+     }
+     .h:hover{
+      text-decoration: underline white solid;
+      color: white;
+     }
+     .u{
+position: fixed;
+       left: 0;
+       top: 0;
+       z-index: 3;
+       margin-top: 0%;
+      right:0px;
+     }
+     .dropdown-menu:hover{
+       background-color: #9370DB;
+       color: white;
+     }
+     .m{
+       width: 100px;
+       font-size:16px ;
+       border: 5px solid white;
+       background-color: white;
+       color: black;
+       text-align: center;
+       border-radius: 18px;
+     }
+     .m:hover{
+       width: 100px;
+       font-size:16px ;
+       border: 5px solid black;
+       background-color: black;
+       color: white;
+       text-align: center;
+       border-radius: 18px;
+     }
+     .k{
+       font-size: 16px;
+       margin-top: 7px; 
+     }
+     .k:hover{
+      text-decoration: underline white solid;
+      color: white;
+     }
+     .a{
+     max-width: 180px;
+    
+     }
+     .s2{
+   width: 600px;
+   height: 420px;
+  }
+  #o img {
+   margin-top: 110px;
+   margin-left: 30px;
+   /* margin-right: 610px; */
+   height: 435px;
+   width:400px;
+   position: relative;
+  }
+  .s4 {
+     color: black;
+     border: 3PX SOLID #9370DB;
+    background-image: url(newly.png);
+    width: 350px;
+    height: 415px;
+   /* border-radius: 15px; */
+   outline:8px ridge #D8B4F8;
+    outline-offset: 2px;
+     padding:20px;
+    overflow: auto;
+  float: left; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* font-weight: 400; */
+     font-style: initial;
+     line-height: 30px;
+       text-align: justify;
+     text-align-last: center;
+   /* text-indent: 80px; */
+     text-decoration: underline #6A0DAD;
+  /* text-shadow: 8px 8px 8px thistle; */
+     font-size: 20px;
+   font-weight: 650;
+      margin-top: -425px;
+        margin-left: 500px;
+
+}
+.s5{
+
+margin-top: -435px;
+margin-left: 930px;
+height: 435px;
+width:450px;
+background-color: black;
+color: white;
+}
+.s6{
+font-size: 18px;
+font-weight: bolder;
+}
+.s7{
+font-size: 14px ;
+} 
+#w{
+position: relative;
+top: 250px;
+right: 380px;
+width: 360px;
+}
